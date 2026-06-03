@@ -1,162 +1,176 @@
 # Customer_Behavior_Project
 Data Analysis project seeking to get useful insights about the customers behaviour for an online store using python, SQL and Power BI.
+📊 Data Analytics Project
+🚀 Overview
 
-Data Analytics Project
-Overview
+This project demonstrates a complete Data Analytics workflow, from raw data processing to business intelligence reporting. The goal is to transform data into meaningful insights through data cleaning, exploratory analysis, SQL querying, visualization, and reporting.
 
-This project demonstrates an end-to-end data analytics workflow, covering data extraction, cleaning, analysis, visualization, and reporting. The objective is to transform raw data into actionable insights using Python, SQL, and Power BI.
+✨ Project Highlights
+📥 Data Loading with Python
+🔍 Exploratory Data Analysis (EDA)
+🧹 Data Cleaning & Preprocessing
+🗄️ SQL Analysis (PostgreSQL, MySQL, SQL Server)
+📈 Interactive Power BI Dashboard
+📝 Business Report Creation
+🎯 Professional Presentation using Gamma
+📂 Dataset
 
-The project includes:
+The project uses a structured dataset containing business-related information for analytical purposes.
 
-Data loading and preprocessing using Python
-Exploratory Data Analysis (EDA)
-Data cleaning and transformation
-SQL-based analysis using PostgreSQL, MySQL, and SQL Server
-Interactive dashboard development in Power BI
-Business insights reporting
-Presentation creation using Gamma
-Dataset
-
-The dataset used in this project contains structured business data for analysis and reporting purposes.
-
-Dataset Features
-Multiple attributes related to business operations
-Numerical and categorical variables
-Missing values and data quality challenges
-Suitable for exploratory and analytical reporting
-Tools & Technologies
-Category	Tools
-Programming	Python
-Libraries	Pandas, NumPy, Matplotlib, Seaborn
-Databases	PostgreSQL, MySQL, SQL Server
-Query Language	SQL
-Visualization	Power BI
-Reporting	Microsoft Word / PDF
-Presentation	Gamma
-Project Workflow
-1. Data Loading
-Imported dataset into Python environment
-Inspected data structure and data types
-Verified dataset integrity
-2. Exploratory Data Analysis (EDA)
-Analyzed distributions and trends
-Identified patterns and anomalies
-Generated summary statistics
-Created visualizations for key metrics
-3. Data Cleaning
+📌 Dataset Characteristics
+Numerical & Categorical Features
+Missing Values Handling
+Data Quality Assessment
+Business-Oriented Metrics
+🛠️ Tools & Technologies
+Category	Technologies
+🐍 Programming	Python
+📚 Libraries	Pandas, NumPy, Matplotlib, Seaborn
+🗄️ Databases	PostgreSQL, MySQL, SQL Server
+💻 Query Language	SQL
+📊 Visualization	Power BI
+📝 Reporting	PDF / Word
+🎨 Presentation	Gamma
+🔄 Project Workflow
+📥 1. Data Loading
+Imported dataset into Python
+Reviewed structure and data types
+Validated data integrity
+🔍 2. Exploratory Data Analysis (EDA)
+Analyzed trends and distributions
+Identified patterns and outliers
+Generated descriptive statistics
+Created visual insights
+🧹 3. Data Cleaning
 Handled missing values
-Removed duplicates
-Corrected data inconsistencies
-Standardized formats and categories
-4. SQL Analysis
+Removed duplicate records
+Fixed inconsistent data
+Standardized formats
+🗄️ 4. SQL Analysis
 
 Performed analytical queries using:
 
-PostgreSQL
-MySQL
-SQL Server
+✅ PostgreSQL
+✅ MySQL
+✅ SQL Server
 
-Examples include:
+Examples:
+Aggregations & Grouping
+Filtering & Sorting
+Joins
+Window Functions
+KPI Calculations
+📊 5. Power BI Dashboard
+Data Modeling
+KPI Monitoring
+Interactive Filters
+Trend Analysis
+Business Performance Tracking
+📝 6. Reporting
+Documented methodology
+Summarized findings
+Presented business recommendations
+🎯 7. Gamma Presentation
+Executive Summary
+Key Findings
+Visual Storytelling
+Actionable Recommendations
+📈 Dashboard Features
+✨ Key Components
 
-Aggregations and summaries
-Filtering and sorting
-Joins across tables
-Window functions
-Business KPI calculations
-5. Power BI Dashboard Development
-Connected cleaned dataset
-Created data model and relationships
-Built interactive visualizations
-Added KPI cards, charts, and filters
-Designed dashboard for business decision-making
-6. Reporting
-Documented methodology and findings
-Summarized key business insights
-Presented recommendations based on analysis
-7. Presentation Creation
-Developed professional presentation using Gamma
-Highlighted objectives, methodology, findings, and recommendations
-Created visual storytelling for stakeholders
-Dashboard
-Key Features
-Interactive filters and slicers
-KPI monitoring
-Trend analysis
-Category-wise performance tracking
-Executive summary view
-Dashboard Components
-KPI Cards
-Bar Charts
-Line Charts
-Pie/Donut Charts
-Tables and Matrices
-Drill-down Analysis
-Results & Insights
+📌 KPI Cards
+📌 Interactive Slicers
+📌 Line Charts
+📌 Bar Charts
+📌 Pie/Donut Charts
+📌 Drill-Down Analysis
+📌 Dynamic Reports
 
-The analysis helped identify:
+🎯 Key Results
 
-Key performance trends
-High-performing categories and segments
-Areas requiring improvement
-Business opportunities supported by data
-Business Impact
-Improved visibility into performance metrics
-Data-driven decision-making support
-Clear reporting for stakeholders
-Project Structure
-Data-Analytics-Project/
+The analysis provided valuable insights into:
+
+📈 Performance Trends
+🏆 Top Performing Categories
+💡 Business Opportunities
+⚠️ Areas for Improvement
+📊 Data-Driven Recommendations
+💼 Business Impact
+Improved decision-making
+Better performance visibility
+Enhanced reporting efficiency
+Actionable strategic insights
+📁 Project Structure
+📦 Data-Analytics-Project
 │
-├── data/
+├── 📂 data
 │   └── dataset.csv
 │
-├── notebooks/
+├── 📂 notebooks
 │   └── eda_analysis.ipynb
 │
-├── sql/
+├── 📂 sql
 │   ├── postgresql_queries.sql
 │   ├── mysql_queries.sql
 │   └── sqlserver_queries.sql
 │
-├── powerbi/
+├── 📂 powerbi
 │   └── dashboard.pbix
 │
-├── reports/
+├── 📂 reports
 │   └── project_report.pdf
 │
-├── presentation/
+├── 📂 presentation
 │   └── gamma_presentation.pdf
 │
-└── README.md
-How to Run
-Prerequisites
+└── 📄 README.md
+⚙️ How to Run
+📋 Prerequisites
 Python 3.x
 PostgreSQL / MySQL / SQL Server
 Power BI Desktop
-Installation
+🔧 Installation
 git clone <repository-url>
 cd Data-Analytics-Project
 
-Install required Python packages:
+Install required packages:
 
 pip install pandas numpy matplotlib seaborn
-Execution Steps
-Load the dataset in Python.
-Run EDA and data cleaning scripts.
-Execute SQL queries in the preferred database system.
-Open the Power BI dashboard file (.pbix).
-Review the project report and presentation.
-Deliverables
-Cleaned Dataset
-Python Analysis Notebook
-SQL Query Scripts
-Power BI Dashboard
-Business Report
-Gamma Presentation
-Author
+▶️ Execution Steps
 
-[Your Name]
+1️⃣ Load the dataset into Python
 
-Data Analyst | SQL | Python | Power BI
+2️⃣ Perform EDA and Data Cleaning
 
-LinkedIn: [Your LinkedIn Profile]
-Portfolio: [Your Portfolio Link]
+3️⃣ Run SQL Queries
+
+4️⃣ Open Power BI Dashboard (.pbix)
+
+5️⃣ Review the Report & Presentation
+
+📦 Deliverables
+
+✅ Cleaned Dataset
+
+✅ Python Notebook
+
+✅ SQL Scripts
+
+✅ Power BI Dashboard
+
+✅ Business Report
+
+✅ Gamma Presentation
+
+👨‍💻 Author
+Your Name
+
+📊 Data Analyst | SQL | Python | Power BI
+
+🔗 LinkedIn: https://www.linkedin.com/in/omar-eltaher1/
+
+🌐 Portfolio: https://your-portfolio.com
+
+📧 Email: omareltaher91@gmail.com
+
+⭐ If you found this project useful, consider giving it a star!
