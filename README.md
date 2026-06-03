@@ -1,20 +1,20 @@
 # Customer_Behavior_Project
-##📊 Data Analytics Project
+📊 Data Analytics Project
 
-##🚀 Overview
+🚀 Overview
 
-This project demonstrates a complete Data Analytics workflow, from raw data processing to business intelligence reporting. The goal is to transform data into meaningful insights through data cleaning, exploratory analysis, SQL querying, visualization, and reporting.
+- This project demonstrates a complete Data Analytics workflow, from raw data processing to business intelligence reporting. The goal is to transform data into meaningful insights through data cleaning, exploratory analysis, SQL querying, visualization, and reporting.
 
-##✨ Project Highlights
-	• 📥 Data Loading with Python
-	• 🔍 Exploratory Data Analysis (EDA)
-	• 🧹 Data Cleaning & Preprocessing
-	• 🗄️ SQL Analysis (PostgreSQL, MySQL, SQL Server)
-	• 📈 Interactive Power BI Dashboard
-	• 📝 Business Report Creation
-	• 🎯 Professional Presentation using Gamma
+✨ Project Highlights
+	- 📥 Data Loading with Python
+	- 🔍 Exploratory Data Analysis (EDA)
+	- 🧹 Data Cleaning & Preprocessing
+	- 🗄️ SQL Analysis (PostgreSQL, MySQL, SQL Server)
+	- 📈 Interactive Power BI Dashboard
+	- 📝 Business Report Creation
+	- 🎯 Professional Presentation using Gamma
 
-##📂 Dataset
+📂 Dataset
 The project uses a structured dataset containing business-related information for analytical purposes.
 📌 Dataset Characteristics
 	• Numerical & Categorical Features
