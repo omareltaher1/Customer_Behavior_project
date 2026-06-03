@@ -169,7 +169,7 @@ Your Name
 
 🔗 LinkedIn: https://www.linkedin.com/in/omar-eltaher1/
 
-🌐 Portfolio: https://your-portfolio.com
+🌐 Portfolio: https://github.com/omareltaher1
 
 📧 Email: omareltaher91@gmail.com
 
